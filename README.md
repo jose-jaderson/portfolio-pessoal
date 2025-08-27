@@ -1,2 +1,2 @@
 # portfolio-pessoal
-Meu perfil pessoal no GitHub
+Estudante de Análise e Desenvolvimento de Sistemas | Em busca de conhecimento e experiência em tecnologia
